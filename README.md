@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darshanbadiger
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently working on MERN Stack Projects
 - 📫 How to reach me ...
 
 <!---
